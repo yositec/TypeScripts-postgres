@@ -6,6 +6,6 @@ exports.pool = new pg_1.Pool({
     user: 'postgres',
     host: 'localhost',
     password: 'Faline56y',
-    database: 'users',
+    database: 'firstapi',
     port: 5432,
 });
